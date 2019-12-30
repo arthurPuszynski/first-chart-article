@@ -1,0 +1,1 @@
+JSC.Chart('chartDiv', {});
